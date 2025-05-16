@@ -5,6 +5,7 @@
 
 <div align="center">
   <img src="https://dofreelancingwithus.vercel.app/dfwu.png" alt="DoFreelancingWithUs Banner" width="100">
+  <img src="https://dofreelancingwithus.vercel.app/dofreelancingwithus.svg" alt="DoFreelancingWithUs" width="100">
 </div>
 
 ## 👋 Hey There! We're Your Tech-Savvy Student Freelancers
