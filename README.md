@@ -53,16 +53,14 @@ We're always excited to collaborate on new projects!
 3. **Get a free consultation** on feasibility and timeline
 4. **Watch** as we bring your idea to life!
 
-```bash
+
+
 # Like what you see? Star our repo to show some love!
 ⭐ star this repository
-
-## 📜 License
+📜 License
 **MIT License** © **DoFreelancingWithUs**  
 
-```text
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software...
+```bash
+
+
+
