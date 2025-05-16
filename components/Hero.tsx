@@ -43,15 +43,23 @@ const Hero = () => {
         />
       </div>
       {/* Logo */}
-      <div className="flex justify-center relative z-10 mb-10 px-4">
+      <div className="flex justify-center relative space-x-4 z-10 mb-10 px-4">
+        <img
+          src="/dfwu.png"
+          alt="Do Freelancing With Us Logo"
+          width={75}
+          height={75}
+          className="w-15 md:w-15"
+        /> 
         <img
           src="/dofreelancingwithus.svg"
-          alt="Do Freelancing With Us"
+          alt="Do Freelancing With Us Text"
           width={200}
           height={200}
-          className="md:w-80 w-40"
+          className="w-35 md:w-80"
         />
       </div>
+
 
       <div className="flex justify-center relative my-20 z-10">
         <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
