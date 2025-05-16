@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/Star-Our%20Repo-yellow?style=for-the-badge&logo=github)](https://github.com/dofreelancingwithus/dofreelancingwithus)
 
 <div align="center">
-  <img src="https://dofreelancingwithus.vercel.app/dfwu.png" alt="DoFreelancingWithUs Banner" width="800">
+  <img src="https://dofreelancingwithus.vercel.app/dfwu.png" alt="DoFreelancingWithUs Banner" width="100">
 </div>
 
 ## 👋 Hey There! We're Your Tech-Savvy Student Freelancers
