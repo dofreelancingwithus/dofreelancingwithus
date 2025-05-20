@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
+import Script from "next/script";
 
 import "./globals.css";
 import { ThemeProvider } from "./provider";
@@ -34,6 +35,15 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <head>
         <link rel="icon" href="/dfwu.png" sizes="any" />
+        <Script async src="https://www.googletagmanager.com/gtag/js?id=G-227GS2NYKG"></Script>
+        <Script id="google-analytics">
+          {
+            `window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-227GS2NYKG');`
+          }
+        </Script>
       </head>
       <body className={inter.className}>
         <ThemeProvider
