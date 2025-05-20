@@ -10,7 +10,7 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
-    title: "I prioritize client collaboration, fostering open communication ",
+    title: "We prioritize client collaboration, fostering open communication ",
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
@@ -20,7 +20,7 @@ export const gridItems = [
   },
   {
     id: 2,
-    title: "I'm very flexible with time zone communications",
+    title: "We are very flexible with time zone communications",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
@@ -30,8 +30,8 @@ export const gridItems = [
   },
   {
     id: 3,
-    title: "My tech stack",
-    description: "I constantly try to improve",
+    title: "Our tech stack",
+    description: "we constantly try to improve",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-center",
@@ -211,8 +211,8 @@ export const socialMedia = [
   },
   {
     id: 3,
-    img: "/link.svg",
-    link: "https://www.linkedin.com/in/dofreelancingwithus",
+    img: "/fb.svg",
+    link: "https://www.facebook.com/profile.php?id=61576362725551&__cft__[0]=AZXjecDN-xOOHJX-odWJZ6HcaaDiWGhDJfu_mR8SrdisBLJScABH_ba--mi-dY39_A8x1Suj2Ir9Orm9k7av6QXsc4h4gp1mzI_Lf2P5BC_v4s36bUzcxZcAdhgHnQs5yrA2R8CDgF9CHBOragGi7mkSdc7LisIbzYQMIjzMg1IErw&__tn__=-]C%2CP-R",
   },
   {
     id: 4,
