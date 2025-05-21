@@ -3,7 +3,6 @@
 import { gridItems } from "@/data";
 import dynamic from "next/dynamic";
 
-// Dynamically import BentoGrid and BentoGridItem with SSR disabled
 const BentoGrid = dynamic(() => import("./ui/BentoGrid").then(mod => mod.BentoGrid), { ssr: false });
 const BentoGridItem = dynamic(() => import("./ui/BentoGrid").then(mod => mod.BentoGridItem), { ssr: false });
 
